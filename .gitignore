@@ -1,0 +1,12 @@
+.idea/
+.idea_modules/
+project/target/
+target/
+lib/
+Scala.iml
+.classpath
+.project
+.cache
+.settings/
+bin/
+
